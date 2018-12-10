@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TanCamilleLab4</string>
+    <string name="toast">Toast</string>
+    <string name="lab_exer_4">Lab Exer 4</string>
+    <string name="snackbar">SnackBar</string>
+    <string name="snackbar_w_action">Snackbar w/ Action</string>
+</resources>
